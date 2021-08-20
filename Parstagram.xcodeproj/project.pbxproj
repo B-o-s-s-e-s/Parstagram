@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		04500E0026B822AD008090F3 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04500DFF26B822AD008090F3 /* PostCell.swift */; };
+		0494508B26CDD1E8009ACBE5 /* commentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0494508A26CDD1E8009ACBE5 /* commentCell.swift */; };
 		04945B3B26B763510060745D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04945B3A26B763510060745D /* LoginViewController.swift */; };
 		04945B4026B763640060745D /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04945B3F26B763640060745D /* FeedViewController.swift */; };
 		04945B4526B76ACF0060745D /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04945B4426B76ACF0060745D /* CameraViewController.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		04500DFF26B822AD008090F3 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		0494508A26CDD1E8009ACBE5 /* commentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commentCell.swift; sourceTree = "<group>"; };
 		04945B3A26B763510060745D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		04945B3F26B763640060745D /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		04945B4426B76ACF0060745D /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				04945B3F26B763640060745D /* FeedViewController.swift */,
 				04945B4426B76ACF0060745D /* CameraViewController.swift */,
 				04500DFF26B822AD008090F3 /* PostCell.swift */,
+				0494508A26CDD1E8009ACBE5 /* commentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -416,6 +419,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04945B3B26B763510060745D /* LoginViewController.swift in Sources */,
+				0494508B26CDD1E8009ACBE5 /* commentCell.swift in Sources */,
 				04945B4526B76ACF0060745D /* CameraViewController.swift in Sources */,
 				04DB447926B75EE200963C1A /* AppDelegate.swift in Sources */,
 				04945B4026B763640060745D /* FeedViewController.swift in Sources */,
